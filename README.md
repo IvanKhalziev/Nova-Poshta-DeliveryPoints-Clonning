@@ -32,9 +32,9 @@
 
 ## English
 
-When developing an online store, it's almost always necessary to provide a choice of delivery method for the customer. **Nova Poshta** is a must-have for modern projects. Nova Poshta also provides an *API* for developers, which contains a lot of useful information. Today, we'll focus solely on **Order Pickup Points** and all the information related to them. 
+When developing an online store, it's almost always necessary to provide a choice of delivery method for the customer. **Nova Poshta** is a must-have for modern projects. Nova Poshta also provides an *API* for developers, which contains a lot of useful information. Today, we'll focus on **Order Pickup Points** and all the information related to them. 
 
-Here you'll find information on how to interact with the **NP API** and retrieve information. We need three things - **Regions** -> **Settlements** -> **Pickup Points**. That's the sequence. Without one, you won't be able to get information about the other. 
+Here you'll find information on how to interact with the **NP API** and retrieve information. We need three things - **Regions** -> **Cities** -> **Warehouses**. That's the sequence. Without first, you won't be able to get information about the other. 
 
 I've done a complete clone of the **DB** in *Django*, so here you'll also find scripts I used to create *fixtures* for my **DB**. 
 
@@ -47,8 +47,8 @@ We need a file with regions (*areas_sorted.json*), specifically their names, as 
 - *Filter.py* - script for removing duplicates from the data we received. Data is written to (*city_filtered.json*). 
 - *City_fixture.py* - file for creating fixtures. 
 
-### Folder with Branches
-Just like last time, we need a file with cities (*city_filtered.json*) for queries specifically for these settlements. 
+### Folder with Warehouses
+Just like last time, we need a file with cities (*city_filtered.json*) for queries specifically for these cities. 
 - *Warehouse.py* - file with queries that write data to (*warehouse.json*). 
 Then, according to the scheme, we create fixtures if needed. 
 
