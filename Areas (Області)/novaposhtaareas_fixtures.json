@@ -1,0 +1,202 @@
+[
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 1,
+        "fields": {
+            "name": "АРК область",
+            "ref": "dcaad3d6-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 2,
+        "fields": {
+            "name": "Вінницька область",
+            "ref": "dcaad5a7-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 3,
+        "fields": {
+            "name": "Волинська область",
+            "ref": "dcaad676-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 4,
+        "fields": {
+            "name": "Дніпропетровська область",
+            "ref": "dcaad735-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 5,
+        "fields": {
+            "name": "Донецька область",
+            "ref": "dcaad81c-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 6,
+        "fields": {
+            "name": "Житомирська область",
+            "ref": "dcaad8fb-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 7,
+        "fields": {
+            "name": "Закарпатська область",
+            "ref": "dcaad993-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 8,
+        "fields": {
+            "name": "Запорізька область",
+            "ref": "dcaada26-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 9,
+        "fields": {
+            "name": "Івано-Франківська область",
+            "ref": "dcaadac6-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 10,
+        "fields": {
+            "name": "Київська область",
+            "ref": "dcaadb64-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 11,
+        "fields": {
+            "name": "Кіровоградська область",
+            "ref": "dcaadbf9-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 12,
+        "fields": {
+            "name": "Луганська область",
+            "ref": "dcaadc91-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 13,
+        "fields": {
+            "name": "Львівська область",
+            "ref": "dcaadd3a-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 14,
+        "fields": {
+            "name": "Миколаївська область",
+            "ref": "dcaaddd7-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 15,
+        "fields": {
+            "name": "Одеська область",
+            "ref": "dcaade6d-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 16,
+        "fields": {
+            "name": "Полтавська область",
+            "ref": "dcaadf02-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 17,
+        "fields": {
+            "name": "Рівненська область",
+            "ref": "dcaadfa0-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 18,
+        "fields": {
+            "name": "Сумська область",
+            "ref": "dcaae036-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 19,
+        "fields": {
+            "name": "Тернопільська область",
+            "ref": "dcaae303-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 20,
+        "fields": {
+            "name": "Харківська область",
+            "ref": "dcaae3a1-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 21,
+        "fields": {
+            "name": "Херсонська область",
+            "ref": "dcaae44b-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 22,
+        "fields": {
+            "name": "Хмельницька область",
+            "ref": "dcaae4e5-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 23,
+        "fields": {
+            "name": "Черкаська область",
+            "ref": "dcaae57c-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 24,
+        "fields": {
+            "name": "Чернівецька область",
+            "ref": "dcaae60e-4b33-11e4-ab6d-005056801329"
+        }
+    },
+    {
+        "model": "orders.novaposhtaarea",
+        "pk": 25,
+        "fields": {
+            "name": "Чернігівська область",
+            "ref": "dcaae6a8-4b33-11e4-ab6d-005056801329"
+        }
+    }
+]

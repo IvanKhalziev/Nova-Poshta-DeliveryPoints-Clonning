@@ -1,0 +1,155 @@
+{
+    "success": true,
+    "data": [
+      {
+        "Ref": "dcaad3d6-4b33-11e4-ab6d-005056801329",
+        "Description": "АРК",
+        "RegionType": "область",
+        "AreasCenter": "e71df018-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaad5a7-4b33-11e4-ab6d-005056801329",
+        "Description": "Вінницька",
+        "RegionType": "область",
+        "AreasCenter": "e71629ab-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaad676-4b33-11e4-ab6d-005056801329",
+        "Description": "Волинська",
+        "RegionType": "область",
+        "AreasCenter": "e71ab70b-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaad735-4b33-11e4-ab6d-005056801329",
+        "Description": "Дніпропетровська",
+        "RegionType": "область",
+        "AreasCenter": "e717110a-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaad81c-4b33-11e4-ab6d-005056801329",
+        "Description": "Донецька",
+        "RegionType": "область",
+        "AreasCenter": "e7174c0e-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaad8fb-4b33-11e4-ab6d-005056801329",
+        "Description": "Житомирська",
+        "RegionType": "область",
+        "AreasCenter": "e717a3d0-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaad993-4b33-11e4-ab6d-005056801329",
+        "Description": "Закарпатська",
+        "RegionType": "область",
+        "AreasCenter": "e71f4773-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaada26-4b33-11e4-ab6d-005056801329",
+        "Description": "Запорізька",
+        "RegionType": "область",
+        "AreasCenter": "e717bce9-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaadac6-4b33-11e4-ab6d-005056801329",
+        "Description": "Івано-Франківська",
+        "RegionType": "область",
+        "AreasCenter": "e7182b3c-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaadb64-4b33-11e4-ab6d-005056801329",
+        "Description": "Київська",
+        "RegionType": "область",
+        "AreasCenter": "e718a680-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaadbf9-4b33-11e4-ab6d-005056801329",
+        "Description": "Кіровоградська",
+        "RegionType": "область",
+        "AreasCenter": "e718b361-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaadc91-4b33-11e4-ab6d-005056801329",
+        "Description": "Луганська",
+        "RegionType": "область",
+        "AreasCenter": "e71aaddb-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaadd3a-4b33-11e4-ab6d-005056801329",
+        "Description": "Львівська",
+        "RegionType": "область",
+        "AreasCenter": "e71abb60-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaaddd7-4b33-11e4-ab6d-005056801329",
+        "Description": "Миколаївська",
+        "RegionType": "область",
+        "AreasCenter": "e71b108c-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaade6d-4b33-11e4-ab6d-005056801329",
+        "Description": "Одеська",
+        "RegionType": "область",
+        "AreasCenter": "e71c2a15-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaadf02-4b33-11e4-ab6d-005056801329",
+        "Description": "Полтавська",
+        "RegionType": "область",
+        "AreasCenter": "e71d006d-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaadfa0-4b33-11e4-ab6d-005056801329",
+        "Description": "Рівненська",
+        "RegionType": "область",
+        "AreasCenter": "e71d65e1-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaae036-4b33-11e4-ab6d-005056801329",
+        "Description": "Сумська",
+        "RegionType": "область",
+        "AreasCenter": "e71e73be-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaae303-4b33-11e4-ab6d-005056801329",
+        "Description": "Тернопільська",
+        "RegionType": "область",
+        "AreasCenter": "e71efc6a-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaae3a1-4b33-11e4-ab6d-005056801329",
+        "Description": "Харківська",
+        "RegionType": "область",
+        "AreasCenter": "e71f8842-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaae44b-4b33-11e4-ab6d-005056801329",
+        "Description": "Херсонська",
+        "RegionType": "область",
+        "AreasCenter": "e71f8b5f-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaae4e5-4b33-11e4-ab6d-005056801329",
+        "Description": "Хмельницька",
+        "RegionType": "область",
+        "AreasCenter": "e71f8e8f-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaae57c-4b33-11e4-ab6d-005056801329",
+        "Description": "Черкаська",
+        "RegionType": "область",
+        "AreasCenter": "e71fe3ca-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaae60e-4b33-11e4-ab6d-005056801329",
+        "Description": "Чернівецька",
+        "RegionType": "область",
+        "AreasCenter": "e71fe717-4b33-11e4-ab6d-005056801329"
+      },
+      {
+        "Ref": "dcaae6a8-4b33-11e4-ab6d-005056801329",
+        "Description": "Чернігівська",
+        "RegionType": "область",
+        "AreasCenter": "e71feb5c-4b33-11e4-ab6d-005056801329"
+      }
+    ]
+  }
